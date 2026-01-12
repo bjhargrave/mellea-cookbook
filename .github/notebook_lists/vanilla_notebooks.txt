@@ -1,0 +1,2 @@
+recipes/QuickStart/QuickStart.ipynb
+recipes/InstructValidateRepair/InstructValidateRepair.ipynb
