@@ -14,6 +14,10 @@ The "Recipes" in the Mellea Cookbook showcase the capabilities of Mellea, in bit
    <a target="_blank" href="https://colab.research.google.com/github/generative-computing/mellea-cookbook/blob/main/recipes/InstructValidateRepair/InstructValidateRepair.ipynb">
    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
    </a>
+1. [Extracting Structured Data from Unstructured Text](recipes/StructuredDataExtraction/StructuredDataExtraction.ipynb)
+   <a target="_blank" href="https://colab.research.google.com/github/ibm-granite-community/mellea-cookbook/blob/main/recipes/StructuredDataExtraction/StructuredDataExtraction.ipynb">
+   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+   </a>
 
 ## Build Status
 
